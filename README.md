@@ -10,10 +10,16 @@ In today's dynamic world, we are seeing a growing number of large data, and mani
 # Dataset
 Dataset is user activity log, which includes user information, browser, account level, location, song, artist, and timestamp. 
 # File Descriptions
-One Jupyter notebook that includes code, plot and output related to exploratory data analysis and machine learning models. 
+Sparkify.ipynb - Jupyter notebook that includes code, plots and outputs related to exploratory data analysis and steps in data preprocessing and machine learning model building. 
+
+PageVisualization.PNG, StayChurn.PNG - plots for data visualizations
+
+Sparkify.PNG - Sparkify logo
  # Statistical Models
  Logistic Regression, Random Forest, and Linear Support Vector
  # Result
  Findings of this project was published on Medium available [here](https://edwinhung.medium.com/predicting-churn-rate-on-a-music-streaming-example-sparkify-325caea280e9).
+ 
+ Interesting insights about Sparkify user behavior were discovered in the analysis, including number of songs listened and roll advertistements shown to groups of users who stayed and churned. Three machine learning models implemented all achieved more than 83% accuracy on predicting churn. 
  # Acknowledgements
- This project is the capstone project in Udacity Data Scientist nanodegree with collaboration from Insight Data Science.
+ This project is the capstone project in Udacity Data Scientist nanodegree with collaboration from Insight Data Science. Data is only available in workspace provided by Udacity.
