@@ -14,6 +14,10 @@ Sparkify.ipynb - Jupyter notebook that includes code, plots and outputs related 
 
 PageVisualization.PNG, StayChurn.PNG - plots for data visualizations
 
+Schema.PNG, describesummary.PNG, pagecount.PNG, missing1.PNG, missing2.PNG - output images for dataset
+
+featureimportance.PNG, logregparam.PNG, lsvcparam.PNG, paramMetrics.PNG, rfparam.PNG, bestScore.PNG - output images for models
+
 Sparkify.PNG - Sparkify logo
  # Statistical Models
  Logistic Regression, Random Forest, and Linear Support Vector
